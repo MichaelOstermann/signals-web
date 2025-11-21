@@ -2,44 +2,38 @@
 aside: true
 ---
 
-# NAME
+# signals-web
 
 <Badge type="info" class="size">
     <span>Minified</span>
-    <span>TODO KB</span>
+    <span>9.67 KB</span>
 </Badge>
 
 <Badge type="info" class="size">
     <span>Minzipped</span>
-    <span>TODO KB</span>
+    <span>1.95 KB</span>
 </Badge>
 
-**DESC**
-
-## Features
-
-## Example
+**Signals collection for the web.**
 
 ## Installation
 
 ::: code-group
 
 ```sh [npm]
-npm install @monstermann/NAME
+npm install @monstermann/signals-web
 ```
 
 ```sh [pnpm]
-pnpm add @monstermann/NAME
+pnpm add @monstermann/signals-web
 ```
 
 ```sh [yarn]
-yarn add @monstermann/NAME
+yarn add @monstermann/signals-web
 ```
 
 ```sh [bun]
-bun add @monstermann/NAME
+bun add @monstermann/signals-web
 ```
 
 :::
-
-## API
