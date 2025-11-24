@@ -1,3 +1,4 @@
+import signals from "@monstermann/unplugin-signals/rolldown"
 import { defineConfig } from "tsdown"
 
 export default defineConfig({
@@ -6,4 +7,9 @@ export default defineConfig({
     entry: ["./src/index.ts"],
     format: "esm",
     unbundle: true,
+    plugins: [
+        signals({
+            getPath: path => path.replace("src", "@signals-web"),
+        }),
+    ],
 })
