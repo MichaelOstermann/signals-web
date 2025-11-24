@@ -17,7 +17,7 @@
     },
     "packages/signals-web": {
       "name": "@monstermann/signals-web",
-      "version": "0.0.0",
+      "version": "0.1.0",
       "dependencies": {
         "@monstermann/signals": "^0.0.0",
       },
