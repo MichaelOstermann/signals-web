@@ -3,8 +3,8 @@ import { emitter, memo, signal, SILENT } from "@monstermann/signals"
 export const onWindowResize = emitter<UIEvent>({
     silent: true,
     onWatch() {
-        document.addEventListener("resize", onWindowResize, { passive: true })
-        return () => document.removeEventListener("resize", onWindowResize)
+        window.addEventListener("resize", onWindowResize, { passive: true })
+        return () => window.removeEventListener("resize", onWindowResize)
     },
 })
 
