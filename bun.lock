@@ -19,10 +19,10 @@
       "name": "@monstermann/signals-web",
       "version": "0.2.0",
       "dependencies": {
-        "@monstermann/signals": "^0.1.0",
+        "@monstermann/signals": "^0.1.1",
       },
       "devDependencies": {
-        "@monstermann/unplugin-signals": "^0.1.0",
+        "@monstermann/unplugin-signals": "^0.1.1",
       },
     },
   },
@@ -255,13 +255,13 @@
 
     "@monstermann/meta": ["@monstermann/meta@0.1.0", "", {}, "sha512-RUrZdxKDC+//hfJIDeS1wztPJADuMzIy6nG0NjuvGyGZoI9kQOdCbWYIetpiXTRLNgfwmTY25jcEWqim3Oowhg=="],
 
-    "@monstermann/signals": ["@monstermann/signals@0.1.0", "", { "dependencies": { "@monstermann/dll": "^0.0.0", "@monstermann/dsp": "^0.2.1", "@monstermann/meta": "^0.1.0" } }, "sha512-j18esP81KQpD+BW+MJgB2Ad/hCqnRQRXcoJ40FrUXoEr0pdBJV48+V/M49JYcxVZedHWzQAJCIWPC8OWGWEouQ=="],
+    "@monstermann/signals": ["@monstermann/signals@0.1.1", "", { "dependencies": { "@monstermann/dll": "^0.0.0", "@monstermann/dsp": "^0.2.1", "@monstermann/meta": "^0.1.0" } }, "sha512-Lk6ozmfudK0jZeGNqny6lOSpQcpMbuAArSxaOmeKYe9j2u3EkDVHZ6YBKWJopz59+JcoM+vwnAeDp1B71lVbdw=="],
 
     "@monstermann/signals-web": ["@monstermann/signals-web@workspace:packages/signals-web"],
 
     "@monstermann/transform-meta": ["@monstermann/transform-meta@0.1.0", "", { "dependencies": { "@jridgewell/remapping": "^2.3.4", "@jridgewell/sourcemap-codec": "^1.5.4", "magic-string": "^0.30.17", "oxc-parser": "^0.76.0", "oxc-walker": "^0.3.0" } }, "sha512-g7kngJs4seJNV7lNbApc2Gty+cuZacx72ZcFcbsjk1aVRCdHEjDE5CeJW75uGG/RvBjrRToU22y2M5/t9IEM3w=="],
 
-    "@monstermann/unplugin-signals": ["@monstermann/unplugin-signals@0.1.0", "", { "dependencies": { "@monstermann/transform-meta": "^0.1.0", "unplugin": "^2.3.4", "unplugin-utils": "^0.2.4" } }, "sha512-m3RAWmOX0Yry3MSeq/ONEvINWogbHXlCe9wFTdEnNKSUGSPTsuWIvElse1GJkzf6E1c0YY9TrvA29l4xL2I7/A=="],
+    "@monstermann/unplugin-signals": ["@monstermann/unplugin-signals@0.1.1", "", { "dependencies": { "@monstermann/transform-meta": "^0.1.0", "unplugin": "^2.3.4", "unplugin-utils": "^0.2.4" } }, "sha512-63nmWNY+lKfhuaZ7n3WJHwNZAt0ago20ZWyICIsnPRA6PYPdxZi8uKNporh9R6/VC7o5zXm2LYkiqw97pDL+xQ=="],
 
     "@monstermann/vitepress-theme": ["@monstermann/vitepress-theme@0.2.0", "", {}, "sha512-/2iV2HTsgGFZffl15XvjaQF+N/2rRiLvW/xc3NtGAKU6g+Rnb9v7Era9OecD7xeu3CwD97vEc1eZrqR/auCB+A=="],
 
