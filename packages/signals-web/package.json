@@ -32,9 +32,9 @@
         "release": "bun publish --access public"
     },
     "dependencies": {
-        "@monstermann/signals": "^0.1.1"
+        "@monstermann/signals": "^0.1.2"
     },
     "devDependencies": {
-        "@monstermann/unplugin-signals": "^0.1.1"
+        "@monstermann/unplugin-signals": "^0.1.2"
     }
 }
