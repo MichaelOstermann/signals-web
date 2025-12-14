@@ -19,10 +19,10 @@
       "name": "@monstermann/signals-web",
       "version": "0.2.2",
       "dependencies": {
-        "@monstermann/signals": "^0.1.1",
+        "@monstermann/signals": "^0.2.0",
       },
       "devDependencies": {
-        "@monstermann/unplugin-signals": "^0.1.1",
+        "@monstermann/unplugin-signals": "^0.2.0",
       },
     },
   },
@@ -261,7 +261,7 @@
 
     "@monstermann/meta": ["@monstermann/meta@0.1.2", "", {}, "sha512-SSiY/lWEt2wBJEDwUNg9ev8gpy3dVByXavMfC9JYxcNQ2uXpoMzIir5sUGH9Pb8+3zaXrwaliW1zavklSGBtFQ=="],
 
-    "@monstermann/signals": ["@monstermann/signals@0.1.2", "", { "dependencies": { "@monstermann/dll": "^0.0.2", "@monstermann/dsp": "^0.2.3", "@monstermann/meta": "^0.1.2" } }, "sha512-z3Nxq0m0V26FCEDrKLMDiWoJUCQ1itt2qilaFlsmiXmu3nAtxXC15ofmibfiYmVcr57FsN6yUIZc6wDypZKkTg=="],
+    "@monstermann/signals": ["@monstermann/signals@0.2.0", "", { "dependencies": { "@monstermann/dll": "^0.0.2", "@monstermann/dsp": "^0.2.3", "@monstermann/meta": "^0.1.2" } }, "sha512-Djp6pwQc/JVpLRTdzywCLifnGXpgDpzh3xLhW3BtOnmbeHjbhQamaBuRuWlRBlwgkefbKrD/OOWuoLBML7WirA=="],
 
     "@monstermann/signals-web": ["@monstermann/signals-web@workspace:packages/signals-web"],
 
@@ -269,7 +269,7 @@
 
     "@monstermann/tsconfig": ["@monstermann/tsconfig@0.0.0", "", {}, "sha512-DJfOlZ71AOBJWxPUUcy8SIkJLXOy1c9LP84o52I2JcpiODNOn7/c5P7Gqp7z6hPLLi9rgRCIzOEBrNOazZsYfQ=="],
 
-    "@monstermann/unplugin-signals": ["@monstermann/unplugin-signals@0.1.2", "", { "dependencies": { "@monstermann/transform-meta": "^0.1.2", "unplugin": "^2.3.11", "unplugin-utils": "^0.3.1" } }, "sha512-qDzM78wg8puYD92sOSiMWnsIC3PEfdvyDz3qsh84KIft3YaDqHa3KnCuwjvDl0Zfx07NQf968xi2YuEknvLUPw=="],
+    "@monstermann/unplugin-signals": ["@monstermann/unplugin-signals@0.2.0", "", { "dependencies": { "@monstermann/transform-meta": "^0.1.2", "unplugin": "^2.3.11", "unplugin-utils": "^0.3.1" } }, "sha512-wqy51fJvJrbFyiDGfNc4B/NQIuAOf07pGKMaPgjh+4oGDiStjT+C1zJmrZTCO8Q+1NPHETSasiWl/aJYqrm2qQ=="],
 
     "@monstermann/vitepress-theme": ["@monstermann/vitepress-theme@0.2.0", "", {}, "sha512-/2iV2HTsgGFZffl15XvjaQF+N/2rRiLvW/xc3NtGAKU6g+Rnb9v7Era9OecD7xeu3CwD97vEc1eZrqR/auCB+A=="],
 
