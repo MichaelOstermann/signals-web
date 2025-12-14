@@ -1,7 +1,7 @@
 {
     "name": "@monstermann/signals-web",
     "type": "module",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "description": "Signals collection for the web.",
     "author": "Michael Ostermann <michaelostermann@me.com>",
     "license": "MIT",
